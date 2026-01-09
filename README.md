@@ -27,19 +27,30 @@ Employee performance levels vary significantly across departments, limiting mana
 Concerns have emerged regarding compensation equity among employees in comparable roles. Misalignment between pay, performance, and responsibilities can contribute to reduced morale, disengagement, and increased attrition if left unaddressed.
 
 
-## Objectives
-- Understand overall revenue performance and seasonality
-- Identify top-performing categories and products
-- Explore customer purchasing patterns (if available)
-- Provide actionable recommendations for growth
+## Project Objectives
+To ensure continued success, NextGen Corp’s HR department must adopt a structured, analytical approach to workforce management. The organization needs reliable insights to:
+- Identify trends and patterns in employee retention and turnover
+
+Understand which departments face the highest turnover and why
+- Track and evaluate performance consistently across teams
+
+Highlight hhigh-performing employees, address low performance, and maintain productivity standards
+- Assess the relationship between salary and performance
+
+Ensure fairness, eliminate unjustified pay gaps, and support employee satisfaction
 
 ---
 
-## Dataset
-- **Source:** (add source)
-- **Period:** (e.g., Jan–Dec 2025)
-- **Size:** (e.g., 50,000 rows | 12 columns)
-- **Key fields:** Order Date, Category, Product, Quantity, Revenue, Region
+## Data Dictionary
+- Employees Table: Contains essential employee details like name, job title, hire date, salary, performance score, attendance rate, and department affiliation
+- Departments Table: Contains the list of departments within NextGen Corp. (e.g., Engineering, Sales, HR, Marketing).
+- Performance Table: Tracks monthly performance scores of employees, allowing you to analyze performance trends over time.
+- Attendance Table: Tracks attendance records for employees, including whether they were present or absent.
+- Turnover Table: Contains data on employees who left the company, including the reason for leaving.
+- Salaries Table: Provides salary data, including historical salary changes for each employee.
+<p align="center">
+  <img src="assets/img/banner.png" width="1000" />
+</p>
 
 ---
 
