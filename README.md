@@ -288,12 +288,12 @@ Implementing these actions will help NextGen Corp improve retention, boost produ
 
 ---
 
-## Tech Stack
-- **Tools:** Excel, SQL, Python (Pandas), Power BI/Tableau (optional)
-- **Libraries:** Pandas, NumPy, Matplotlib
+## Disclaimer
+This project is for portfolio and educational display only.
+No content may be reused without permission.
 
 ---
 
-## How to Run (Optional)
+## Connect With Me
 ```bash
 pip install -r requirements.txt
