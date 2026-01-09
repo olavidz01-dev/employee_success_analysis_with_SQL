@@ -295,7 +295,7 @@ No content may be reused without permission.
 ---
 
 ## Connect With Me
-- 💼 LinkedIn: (https://www.linkedin.com/in/david-okeleye001/)
-- 📧 Email: okeleyedavid2021@gmail.com
-- 🌐 Portfolio: https://bit.ly/3N5c1p7
-- Github: 
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/david-okeleye001/)
+- 📧 **Email:** okeleyedavid2021@gmail.com
+- 🌐 **Portfolio:** https://bit.ly/3N5c1p7
+- 🐙 **GitHub:** https://github.com/olavidz01-dev
