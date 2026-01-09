@@ -82,7 +82,7 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
   <img src="assets/img/Q2.png" width="1000" />
 </p>
 
-### 3) Top 3 employees at risk of leaving based on their performance
+### 3) Top 3 employees at risk of leaving base on their performance
 
 **Analysis & Insight:**
 - Grace Wilson has the lowest average performance score at 3.43, followed by Jane Wilson (3.58) and Eve Davis (3.65), all below the team average.
@@ -90,16 +90,17 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 - Without targeted intervention, their performance gaps could translate into increased turnover risk and lost productivity.
 
 <p align="center">
-  <img src="assets/img/Q3.png" width="1000" />
+  <img src="assets/img/Q33.png" width="1000" />
 </p>
 
 ### 4) Rate of Turnover per Department
-**Insight:**
-- Engineering is experiencing severe retention challenges with a turnover rate of 150%, meaning more employees left than the department currently employs, a clear indicator of serious issues related to workload, leadership, or job satisfaction.
-- Marketing (64%) and HR (54%) also show elevated turnover, suggesting instability and potential disengagement.
-- In contrast, Sales has a turnover rate of just 13%, making it the most stable department and a strong benchmark for effective people management and retention practices.
+**Analysis & Insight:**
+- The most common reason for employee departures is personal reasons (11 exits), indicating a need for more flexible working arrangements and stronger employee support.
+- 7 employees left for other job opportunities, suggesting competitive pressures related to pay, engagement, or career development.
+- Career growth limitations (5 exits) and retirements (5 exits) also contribute meaningfully to turnover, highlighting gaps in progression planning and succession management.
+
 <p align="center">
-  <img src="assets/img/Q2.png" width="1000" />
+  <img src="assets/img/Q4.png" width="1000" />
 </p>
 
 
