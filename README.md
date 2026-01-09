@@ -290,6 +290,7 @@ Implementing these actions will help NextGen Corp improve retention, boost produ
 
 ## Disclaimer
 This project is for portfolio and educational display only.
+
 No content may be reused without permission.
 
 ---
