@@ -42,15 +42,16 @@ group by t.reason_for_leaving
 order by "Top_Reason_for_Leaving" desc;
 
 
---- PERFORMANCE ANALYSIS
-
---- Q1. How many employees have left the company?
+--- Q5. How many employees have left the company?
 
 select count(distinct turnover_id) as "Total_Employee_Left"
 from turnover;
 
 
---- Q2. How many employees have an average performance score of 5.0?
+
+--- PERFORMANCE ANALYSIS
+
+--- Q1. How many employees have an average performance score of 5.0?
 
 select count(*) as "Employee_With_Per_Score_5.0"
 from (
@@ -61,7 +62,7 @@ from (
 where "Avg_Score" = 5.0;
 
 
--- How many employees have an average performance score below 3.5?
+--- Q2. How many employees have an average performance score below 3.5?
 
 Select count(*) as "Employee_With_Per_Score_Below3.5"
 From (
@@ -70,7 +71,6 @@ From (
       group by employee_id
 ) as p
 where "Avg_Score" < 3.5;
-
 
 
 --- Q3.   Which department has the most employees with a performance of 5.0?
@@ -84,7 +84,7 @@ left join department d on d.department_id = p.department_id
 where "Avg_Score_5.0" = 5.0;
 
 
---- Which department has the most employees with a performance below 3.5?
+---Q4. Which department has the most employees with a performance below 3.5?
 
 select d.department_name, "Avg_Score_below3.5"
 from (select p.department_id, avg(p.performance_score) as "Avg_Score_below3.5"
@@ -95,8 +95,7 @@ left join department d on d.department_id = p.department_id
 where "Avg_Score_below3.5" < 3.5;
 
 
-
---- Q4.  What is the average performance score by department?
+--- Q5.  What is the average performance score by department?
 
 select department_name, "Avg_Score"
 from (select p.department_id, round(avg(p.performance_score), 2) as "Avg_Score"
@@ -146,3 +145,4 @@ group by d.department_name
 order by "Avg_Performance" desc;
 
  
+
