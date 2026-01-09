@@ -193,25 +193,89 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 ---
 
 ## Recommendation
-### Employee Experience & Engagement Recommendations
+### Employee Experience & Engagement
 1.   Enhance Employee Support Programs
+
 Offer wellness initiatives, stress management resources, family-care policies, and flexible schedules to reduce personal-life attrition.
 
 2.   Build a Positive Culture of Recognition
+
 Introduce employee appreciation programs, spotlight achievements, and award exceptional contributions to boost morale.
 
 3.   Improve Internal Mobility
+
 Allow employees to move across teams or departments before seeking external opportunities.
 
 4.   Create Employee Listening Channels
+
 Quarterly surveys, HR open-door policies, and manager check-ins to address issues early.
 
-<img src="assets/img/revenuebycategorychart.png" width="900" />
+### Performance Management
+1. Standardize Performance Evaluation
 
-### Product Revenue Contribution
-<img src="assets/img/productbyrevenuechart.png" width="900" />
+Implement consistent, bias-free performance criteria across all departments to ensure fair and reliable assessments.
+
+2. Support Low Performers Early
+
+Provide targeted coaching for employees with performance scores below 3.5, supported by clear improvement plans and measurable milestones.
+
+3. Build a High-Performance Culture
+
+Introduce department-level KPIs, expand coaching programs, and offer continuous upskilling to move average performance closer to top-tier benchmarks.
+
+4. Establish Performance-Based Rewards
+
+Introduce bonuses, recognition programs, and leadership opportunities to motivate high performers and reinforce strong performance trends.
+
+### Turnover & Retention
+1.   Targeted Departments Support
+
+Engineering, HR, and Marketing show high turnover; prioritize these departments for retention programs, workload assessments, and leadership coaching.
+
+2.   Exit Interview Insights
+
+Formalize structured exit interviews to uncover root causes behind personal reasons, career growth gaps, and employees finding better jobs.
+
+ 3.   Reduce Personal-Reason Turnover
+
+Offer flexible work arrangements, improved leave policies, and wellness support to address personal-life–related exits.
+
+4.   Strengthen Career Development
+
+Many employees left for “career growth”; create clearer promotion pathways, mentorship programs, and skill development plans.
+
+### Salary & Compensation
+1.   Conduct salary benchmarking
+
+Compare current salaries with industry standards to ensure competitiveness across all roles, especially marketing specialists and technical roles (engineers).
+
+2.   Review compensation alignment
+
+Align salary levels with job responsibilities and performance outcomes to maintain fairness and prevent pay inequities.
+
+3.   Strengthen incentive structures
+
+Maintain strong incentives for sales roles and consider performance-based bonuses for marketing, engineering, and HR to boost motivation.
+
+4.   Build a clear salary progression framework
+
+Implement transparent salary ranges and growth paths so employees understand how performance and tenure lead to pay increases.
 
 ---
+
+### Department-specific Recommendations
+1.   Engineering (critical attention needed)
+- Address causes of 150% turnover: conduct workload audits, enhance leadership support, and improve team morale.
+- Offer technical training and recognition programs to boost satisfaction.
+2.   Marketing & HR (high turnover areas)
+- Strengthen employee support and engagement.
+- Clarify role expectations, career paths, and growth opportunities.
+- Reassess workload distribution and team structure.
+3.   Sales (strong retention & stability)
+- Analyze and document sales’ successful retention strategies, leadership style, incentives, onboarding, and replicate what works across other departments.
+4.   Company-wide
+- Ensure each department receives a tailored retention and performance plan based on turnover rate and average performance score.
+
 
 ## Recommendations (Executive-ready)
 - ✅ Prioritize inventory and promotions for top categories to reduce stockouts
