@@ -192,8 +192,9 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 
 ---
 
-## Visuals
-### Revenue by Category
+## Recommendation
+### Employee Experience & Engagement Recommendations
+
 <img src="assets/img/revenuebycategorychart.png" width="900" />
 
 ### Product Revenue Contribution
