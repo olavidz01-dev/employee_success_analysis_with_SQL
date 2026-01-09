@@ -151,8 +151,44 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
   <img src="assets/img/Q10.png" width="1000" />
 </p>
 
-**Insight:** Best-sellers account for a large portion of revenue.  
-**So what:** Protect availability and consider bundles or upsells.
+---
+
+## Salary Analysis
+### 1) Total salary expense of NextGen Corp
+**Analysis & Insight:** 
+- NextGen Corp’s total salary expenditure is **$4,850,000**, representing a significant investment in its workforce and the company’s highest ongoing operational cost.
+- Given the scale of this spend, even small improvements in **retention, performance, or compensation alignment** can generate substantial financial impact and improve overall return on investment in human capital.
+<p align="center">
+  <img src="assets/img/Q11.png" width="1000" />
+</p>
+  
+### 2) Average salary by job title
+**Analysis & Insight:**
+- The **Sales Representative** role has the highest average salary at **$84,285.71**, reflecting strong revenue-driven incentives and the importance of frontline sales performance.
+- **HR Specialists** follow closely at **$81,818.18**, highlighting the company’s investment in talent management and employee relations.
+- Both **Engineers** and **Sales Managers** earn an average of **$80,000**, showing parity between technical expertise and sales leadership.
+- **Marketing Specialists** have the lowest average at **$77,857.14**, indicating competitive but comparatively lower compensation within the organization.
+<p align="center">
+  <img src="assets/img/Q12.png" width="1000" />
+</p>
+
+### 3) How many employees earn above $80,000
+**Analysis & Insight:**
+- A total of **26 employees** earn more than **$80,000**, indicating a strong concentration of senior, specialized, and high-impact roles within NextGen Corp.
+- This reflects a **competitive compensation structure** designed to attract and retain top talent in critical functions such as sales, engineering, and HR leadership.
+<p align="center">
+  <img src="assets/img/Q13.png" width="1000" />
+</p>
+
+### 4) How does performance correlate with salary across departments 
+**Analysis & Insight:**
+- **Marketing** has the highest total salary spend at **$253.9M** and also the highest average performance score **(4.13)**, indicating a strong return on compensation investment.
+- **Engineering** delivers the second-highest performance **(4.10)** with a significantly lower salary cost **($192M)**, making it one of the most cost-efficient teams.
+- **HR** maintains solid performance **(4.05)** with a low total salary of **$49.8M**, reflecting efficient workforce management.
+- **Sales**, with a salary cost of **$24.36M** and the lowest performance score **(4.00)**, shows the greatest opportunity for performance improvement through enhanced training, incentives, or tools.
+<p align="center">
+  <img src="assets/img/Q14.png" width="1000" />
+</p>
 
 ---
 
