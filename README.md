@@ -194,6 +194,17 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 
 ## Recommendation
 ### Employee Experience & Engagement Recommendations
+1.   Enhance Employee Support Programs
+Offer wellness initiatives, stress management resources, family-care policies, and flexible schedules to reduce personal-life attrition.
+
+2.   Build a Positive Culture of Recognition
+Introduce employee appreciation programs, spotlight achievements, and award exceptional contributions to boost morale.
+
+3.   Improve Internal Mobility
+Allow employees to move across teams or departments before seeking external opportunities.
+
+4.   Create Employee Listening Channels
+Quarterly surveys, HR open-door policies, and manager check-ins to address issues early.
 
 <img src="assets/img/revenuebycategorychart.png" width="900" />
 
