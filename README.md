@@ -65,9 +65,9 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 ## Employee Retention Analysis
 ### 1) Top 5 longest-serving employee
 **Analysis & Insight:** 
-- The earliest hire date in the company is June 30, 2015, meaning the longest-serving employee has been with the organization for over 9 years.
+- The **earliest hire date** in the company is **June 30, 2015**, meaning the longest-serving employee has been with the organization for over 9 years.
 - All five longest-tenured employees were hired between **2015 and 2016**, highlighting a period of exceptionally strong retention.
-- 4 out of the 5 longest-serving employees work in the Sales department, indicating that Sales is the most stable team in the organization.
+- **4 out of the 5** longest-serving employees work in the **Sales department**, indicating that Sales is the most stable team in the organization.
 - This suggests that the hiring practices, leadership, or incentives used during this period, particularly within Sales, were highly effective and could be replicated to improve retention across newer teams.
 <p align="center">
   <img src="assets/img/Q1.png" width="1000" />
