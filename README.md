@@ -83,7 +83,6 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 </p>
 
 ### 3) Top 3 employees at risk of leaving base on their performance
-
 **Analysis & Insight:**
 - **Grace Wilson** has the lowest average performance score at **3.43**, followed by **Jane Wilson (3.58)** and **Eve Davis (3.65)**, all below the team average.
 - These lower scores indicate potential challenges with role fit, workload, or support, making these employees more vulnerable to disengagement and potential attrition.
@@ -120,34 +119,37 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
   <img src="assets/img/Q6.png" width="1000" />
 </p>
   
-### 2) Rate of turnover per department
+### 2) Number of employees with a performance score below 3.5
 **Analysis & Insight:**
-- **Engineering** is experiencing severe retention challenges with a turnover rate of **150%**, meaning more employees left than the department currently employs, a clear indicator of serious issues related to workload, leadership, or job satisfaction.
-- **Marketing (64%)** and **HR (54%)** also show elevated turnover, suggesting instability and potential disengagement.
-- In contrast, **Sales** has a turnover rate of just **13%**, making it the most stable department and a strong benchmark for effective people management and retention practices.
+- Only **one employee** has an average performance score **below 3.5**, indicating an early performance risk.
+- While limited in scale, this outlier could signal potential disengagement or skill gaps that, if left unaddressed, may impact productivity and increase the likelihood of future turnover.
 <p align="center">
-  <img src="assets/img/Q2.png" width="1000" />
+  <img src="assets/img/Q7.png" width="1000" />
 </p>
 
-### 3) Top 3 employees at risk of leaving base on their performance
-
+### 3) Department with the most employees, with a performance of 5.0
 **Analysis & Insight:**
-- **Grace Wilson** has the lowest average performance score at **3.43**, followed by **Jane Wilson (3.58)** and **Eve Davis (3.65)**, all below the team average.
-- These lower scores indicate potential challenges with role fit, workload, or support, making these employees more vulnerable to disengagement and potential attrition.
-- Without targeted intervention, their performance gaps could translate into increased turnover risk and lost productivity.
+- No department achieved an average performance score of **5.0**, indicating that **top-tier performance is not being reached at the team level**.
+- While individual employees may perform well, the lack of consistently high departmental averages suggests potential gaps in team alignment, KPI clarity, training, or leadership effectiveness
 <p align="center">
-  <img src="assets/img/Q33.png" width="1000" />
+  <img src="assets/img/Q8.png" width="1000" />
 </p>
 
-### 4) Top reasons why employees are leaving 
+### 4) Department with the most employees with a performance score below 3.5 
 **Analysis & Insight:**
-- The most common reason for employee departures is **personal reasons (11 exits)**, indicating a need for more flexible working arrangements and stronger employee support.
-- **7** employees left for other **job opportunities**, suggesting competitive pressures related to pay, engagement, or career development.
-- **Career growth limitations (5 exits)** and **retirements (5 exits)** also contribute meaningfully to turnover, highlighting gaps in progression planning and succession management.
+- No department has an average performance score below **3.5**, indicating that **performance challenges are not systemic** and are largely limited to individual employees rather than entire teams.
+- This suggests that departmental leadership, training, and operational structures are generally effective and support consistent performance across the organization.
 <p align="center">
-  <img src="assets/img/Q4.png" width="1000" />
+  <img src="assets/img/Q9.png" width="1000" />
 </p>
 
+### 5) Average performance score by department
+**Analysis & Insight:**
+- Departmental performance is highly consistent, with average scores ranging from **4.00 to 4.13**, indicating stable and balanced team performance across the organization.
+- **Marketing** leads slightly within this range, suggesting effective practices that could be shared across other teams, while **Sales**, at the lower end, may benefit from additional support such as clearer KPIs, updated tools, or refresher training.
+<p align="center">
+  <img src="assets/img/Q10.png" width="1000" />
+</p>
 
 **Insight:** Best-sellers account for a large portion of revenue.  
 **So what:** Protect availability and consider bundles or upsells.
