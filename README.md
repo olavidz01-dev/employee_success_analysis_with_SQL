@@ -112,14 +112,12 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 ---
 
 ## Employee Performance Analysis
-### 1) Top 5 longest-serving employee
+### 1) Number of employees with a performance score of 5.0
 **Analysis & Insight:** 
-- The **earliest hire date** in the company is **June 30, 2015**, meaning the longest-serving employee has been with the organization for over 9 years.
-- All five longest-tenured employees were hired between **2015 and 2016**, highlighting a period of exceptionally strong retention.
-- **4 out of the 5** longest-serving employees work in the **Sales department**, indicating that Sales is the most stable team in the organization.
-- This suggests that the hiring practices, leadership, or incentives used during this period, particularly within Sales, were highly effective and could be replicated to improve retention across newer teams.
+- No employee achieved the maximum performance score of **5.0**, indicating that **top-tier performance is not currently being reached** across the organization.
+- This suggests potential gaps in performance expectations, goal clarity, training, or employee support, which may be limiting overall productivity and engagement.
 <p align="center">
-  <img src="assets/img/Q1.png" width="1000" />
+  <img src="assets/img/Q6.png" width="1000" />
 </p>
   
 ### 2) Rate of turnover per department
