@@ -49,7 +49,7 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 - Turnover Table: Contains data on employees who left the company, including the reason for leaving.
 - Salaries Table: Provides salary data, including historical salary changes for each employee.
 <p align="center">
-  <img src="assets/img/banner.png" width="1000" />
+  <img src="assets/img/datmodel.png" width="1000" />
 </p>
 
 ---
