@@ -101,6 +101,55 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
   <img src="assets/img/Q4.png" width="1000" />
 </p>
 
+### 5) Number of employees that left 
+**Analysis & Insight:**
+- A total of **28 employee separations** indicates a meaningful level of turnover that is likely impacting productivity, team continuity, and recruitment costs.
+- When combined with department-level data, this volume of exits highlights particularly strong retention challenges within **Engineering, Marketing, and HR,** reinforcing the need for targeted engagement and retention strategies.
+<p align="center">
+  <img src="assets/img/Q5.png" width="1000" />
+</p>
+
+---
+
+## Employee Performance Analysis
+### 1) Top 5 longest-serving employee
+**Analysis & Insight:** 
+- The **earliest hire date** in the company is **June 30, 2015**, meaning the longest-serving employee has been with the organization for over 9 years.
+- All five longest-tenured employees were hired between **2015 and 2016**, highlighting a period of exceptionally strong retention.
+- **4 out of the 5** longest-serving employees work in the **Sales department**, indicating that Sales is the most stable team in the organization.
+- This suggests that the hiring practices, leadership, or incentives used during this period, particularly within Sales, were highly effective and could be replicated to improve retention across newer teams.
+<p align="center">
+  <img src="assets/img/Q1.png" width="1000" />
+</p>
+  
+### 2) Rate of turnover per department
+**Analysis & Insight:**
+- **Engineering** is experiencing severe retention challenges with a turnover rate of **150%**, meaning more employees left than the department currently employs, a clear indicator of serious issues related to workload, leadership, or job satisfaction.
+- **Marketing (64%)** and **HR (54%)** also show elevated turnover, suggesting instability and potential disengagement.
+- In contrast, **Sales** has a turnover rate of just **13%**, making it the most stable department and a strong benchmark for effective people management and retention practices.
+<p align="center">
+  <img src="assets/img/Q2.png" width="1000" />
+</p>
+
+### 3) Top 3 employees at risk of leaving base on their performance
+
+**Analysis & Insight:**
+- **Grace Wilson** has the lowest average performance score at **3.43**, followed by **Jane Wilson (3.58)** and **Eve Davis (3.65)**, all below the team average.
+- These lower scores indicate potential challenges with role fit, workload, or support, making these employees more vulnerable to disengagement and potential attrition.
+- Without targeted intervention, their performance gaps could translate into increased turnover risk and lost productivity.
+<p align="center">
+  <img src="assets/img/Q33.png" width="1000" />
+</p>
+
+### 4) Top reasons why employees are leaving 
+**Analysis & Insight:**
+- The most common reason for employee departures is **personal reasons (11 exits)**, indicating a need for more flexible working arrangements and stronger employee support.
+- **7** employees left for other **job opportunities**, suggesting competitive pressures related to pay, engagement, or career development.
+- **Career growth limitations (5 exits)** and **retirements (5 exits)** also contribute meaningfully to turnover, highlighting gaps in progression planning and succession management.
+<p align="center">
+  <img src="assets/img/Q4.png" width="1000" />
+</p>
+
 
 **Insight:** Best-sellers account for a large portion of revenue.  
 **So what:** Protect availability and consider bundles or upsells.
