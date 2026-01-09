@@ -26,6 +26,7 @@ Employee performance levels vary significantly across departments, limiting mana
 
 Concerns have emerged regarding compensation equity among employees in comparable roles. Misalignment between pay, performance, and responsibilities can contribute to reduced morale, disengagement, and increased attrition if left unaddressed.
 
+---
 
 ## Project Objectives
 To ensure continued success, NextGen Corp’s HR department must adopt a structured, analytical approach to workforce management. The organization needs reliable insights to:
@@ -42,12 +43,12 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 ---
 
 ## Data Dictionary
-- Employees Table: Contains essential employee details like name, job title, hire date, salary, performance score, attendance rate, and department affiliation
-- Departments Table: Contains the list of departments within NextGen Corp. (e.g., Engineering, Sales, HR, Marketing).
-- Performance Table: Tracks monthly performance scores of employees, allowing you to analyze performance trends over time.
-- Attendance Table: Tracks attendance records for employees, including whether they were present or absent.
-- Turnover Table: Contains data on employees who left the company, including the reason for leaving.
-- Salaries Table: Provides salary data, including historical salary changes for each employee.
+- **Employees Table**: Contains essential employee details like name, job title, hire date, salary, performance score, attendance rate, and department affiliation
+- **Departments Table**: Contains the list of departments within NextGen Corp. (e.g., Engineering, Sales, HR, Marketing).
+- **Performance Table**: Tracks monthly performance scores of employees, allowing you to analyze performance trends over time.
+- **Attendance Table**: Tracks attendance records for employees, including whether they were present or absent.
+- **Turnover Table**: Contains data on employees who left the company, including the reason for leaving.
+- **Salaries Table**: Provides salary data, including historical salary changes for each employee.
 <p align="center">
   <img src="assets/img/datamodel.png" width="1000" />
 </p>
@@ -276,13 +277,14 @@ Implement transparent salary ranges and growth paths so employees understand how
 4. **Company-wide**
 - Ensure each department receives a tailored retention and performance plan based on turnover rate and average performance score.
 
+---
 
 ## Executive Summary
-This report provides a comprehensive analysis of employee performance, compensation, and turnover patterns at NextGen Corp, offering data-driven insights essential for strengthening workforce stability and organizational growth. The findings reveal critical retention challenges in Engineering, HR, and Marketing, balanced by strong stability in Sales. Performance levels across departments are generally consistent, though no department has reached top-tier performance scores, indicating opportunities for enhanced development and clearer evaluation standards. 
-Salary analysis highlights uneven compensation distribution across roles, suggesting the need for improved alignment with responsibilities and market benchmarks. Based on these insights, the report recommends targeted retention strategies, standardized performance management, competitive and equitable compensation structures, and improved employee support systems. 
-Implementing these recommendations will enable NextGen Corp to optimize employee retention, enhance productivity, and build a more resilient, high-performing workforce.
+This report analyzes employee performance, compensation, and turnover trends at NextGen Corp to identify risks and opportunities impacting workforce stability and organizational growth. The findings highlight significant retention challenges in Engineering, HR, and Marketing, contrasted with strong stability in Sales. While performance levels are generally consistent across departments, no team has yet reached top-tier performance, indicating opportunities to strengthen performance management and employee development.
 
+Compensation analysis reveals uneven salary distribution across roles, suggesting the need for better alignment with responsibilities, performance, and market benchmarks. Based on these insights, the report recommends targeted retention initiatives, standardized performance evaluation, competitive and equitable pay structures, and stronger employee support programs.
 
+Implementing these actions will help NextGen Corp improve retention, boost productivity, and build a more resilient, high-performing workforce.
 
 ---
 
