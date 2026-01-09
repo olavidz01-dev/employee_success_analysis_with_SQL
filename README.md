@@ -3,7 +3,7 @@
 > **Goal:** Uncover revenue drivers, category trends, and product performance to support smarter inventory, pricing, and promotions.
 
 <p align="center">
-  <img src="assets/img/hero.png" width="900" />
+  <img src="assets/img/banner.png" width="900" />
 </p>
 
 ---
