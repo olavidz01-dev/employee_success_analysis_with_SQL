@@ -295,5 +295,7 @@ No content may be reused without permission.
 ---
 
 ## Connect With Me
-```bash
-pip install -r requirements.txt
+- 💼 LinkedIn: (https://www.linkedin.com/in/david-okeleye001/)
+- 📧 Email: okeleyedavid2021@gmail.com
+- 🌐 Portfolio: https://bit.ly/3N5c1p7
+- Github: 
