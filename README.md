@@ -64,7 +64,7 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 
 ## Employee Retention Analysis
 ### 1) Top 5 Longest-Serving Employee
-**Insight:** 
+**Analysis & Insight:** 
 - The earliest hire date in the company is June 30, 2015, meaning the longest-serving employee has been with the organization for over 9 years.
 - All five longest-tenured employees were hired between 2015 and 2016, highlighting a period of exceptionally strong retention.
 - 4 out of the 5 longest-serving employees work in the Sales department, indicating that Sales is the most stable team in the organization.
@@ -73,9 +73,36 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
   <img src="assets/img/Q1.png" width="1000" />
 </p>
   
-**So what:** Focus promotions and stock optimization on high-impact categories.
+### 2) Rate of Turnover per Department
+**Analysis & Insight:**
+- Engineering is experiencing severe retention challenges with a turnover rate of 150%, meaning more employees left than the department currently employs, a clear indicator of serious issues related to workload, leadership, or job satisfaction.
+- Marketing (64%) and HR (54%) also show elevated turnover, suggesting instability and potential disengagement.
+- In contrast, Sales has a turnover rate of just 13%, making it the most stable department and a strong benchmark for effective people management and retention practices.
+<p align="center">
+  <img src="assets/img/Q2.png" width="1000" />
+</p>
 
-### 2) Top Products Drive Disproportionate Sales
+### 3) Top 3 employees at risk of leaving based on their performance
+
+**Analysis & Insight:**
+- Grace Wilson has the lowest average performance score at 3.43, followed by Jane Wilson (3.58) and Eve Davis (3.65), all below the team average.
+- These lower scores indicate potential challenges with role fit, workload, or support, making these employees more vulnerable to disengagement and potential attrition.
+- Without targeted intervention, their performance gaps could translate into increased turnover risk and lost productivity.
+
+<p align="center">
+  <img src="assets/img/Q3.png" width="1000" />
+</p>
+
+### 4) Rate of Turnover per Department
+**Insight:**
+- Engineering is experiencing severe retention challenges with a turnover rate of 150%, meaning more employees left than the department currently employs, a clear indicator of serious issues related to workload, leadership, or job satisfaction.
+- Marketing (64%) and HR (54%) also show elevated turnover, suggesting instability and potential disengagement.
+- In contrast, Sales has a turnover rate of just 13%, making it the most stable department and a strong benchmark for effective people management and retention practices.
+<p align="center">
+  <img src="assets/img/Q2.png" width="1000" />
+</p>
+
+
 **Insight:** Best-sellers account for a large portion of revenue.  
 **So what:** Protect availability and consider bundles or upsells.
 
