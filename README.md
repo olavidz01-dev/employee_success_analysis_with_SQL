@@ -70,7 +70,7 @@ Ensure fairness, eliminate unjustified pay gaps, and support employee satisfacti
 - 4 out of the 5 longest-serving employees work in the Sales department, indicating that Sales is the most stable team in the organization.
 - This suggests that the hiring practices, leadership, or incentives used during this period, particularly within Sales, were highly effective and could be replicated to improve retention across newer teams.
 <p align="center">
-  <img src="assets/img/datamodel.png" width="1000" />
+  <img src="assets/img/Q1.png" width="1000" />
 </p>
   
 **So what:** Focus promotions and stock optimization on high-impact categories.
