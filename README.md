@@ -1,19 +1,31 @@
-# Employee Success Analysis with SQL: Exploratory Data Analysis (EDA)
-
-> **Goal:** Uncover revenue drivers, category trends, and product performance to support smarter inventory, pricing, and promotions.
-
+# Employee Success Analysis with SQL - NextGen Corp
 <p align="center">
-  <img src="assets/img/banner.png" width="900" />
+  <img src="assets/img/banner.png" width="1000" />
 </p>
 
 ---
 
-## Executive Summary
-Skyline Gadgets is an online retailer selling electronics and accessories across multiple categories. This EDA analyzes sales performance to identify what sells best, when demand spikes, and which categories drive revenue.
+## Business Overview
+NextGen Corp is a fast-growing technology company focused on delivering innovative hardware and software solutions in a highly competitive market. The organization has established a strong reputation for attracting high-caliber talent and cultivating a collaborative, performance-driven work environment that supports innovation, productivity, and sustainable growth.
 
-Using a cleaned dataset and Python-based analytics (Pandas, NumPy, Matplotlib), the project highlights revenue trends, product performance, and category-level insights to support inventory planning, targeted promotions, and resource allocation.
+As the company continues to scale, its workforce remains a critical strategic asset. NextGen Corp prioritizes employee satisfaction, fair and competitive compensation, and consistent performance excellence to retain top talent and support long-term business objectives in a rapidly evolving technology landscape.
 
 ---
+
+## Business Problem 
+Despite its continued growth and strong talent base, NextGen Corp is beginning to experience human-resource challenges that pose potential risks to long-term organizational performance. Recent internal indicators point to emerging issues across three key areas:
+1. Employee Turnover
+
+Variability in employee retention suggests possible dissatisfaction, increased market competition for talent, or internal operational inefficiencies. Without a clear understanding of the underlying drivers and trends, rising turnover may lead to escalating recruitment and onboarding costs, knowledge loss, and productivity gaps.
+
+2. Performance Variability
+
+Employee performance levels vary significantly across departments, limiting management’s ability to effectively allocate resources, plan promotions, and identify high-performing or underperforming teams. This lack of visibility reduces confidence in performance-based decision-making.
+
+3. Salary Disparities
+
+Concerns have emerged regarding compensation equity among employees in comparable roles. Misalignment between pay, performance, and responsibilities can contribute to reduced morale, disengagement, and increased attrition if left unaddressed.
+
 
 ## Objectives
 - Understand overall revenue performance and seasonality
